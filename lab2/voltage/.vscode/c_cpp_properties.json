@@ -8,9 +8,9 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "E:/BaiduSyncdisk/GPZ/UW/514_hardware_and_software_lab/lab2/voltage/include",
-                "E:/BaiduSyncdisk/GPZ/UW/514_hardware_and_software_lab/lab2/voltage/src",
-                "E:/BaiduSyncdisk/GPZ/UW/514_hardware_and_software_lab/lab2/voltage/.pio/libdeps/seeed_xiao_esp32c3/Bounce2/src",
+                "E:/BaiduSyncdisk/GPZ/UW/514_hardware_and_software_lab/labs_peizhong_gao/lab2/voltage/include",
+                "E:/BaiduSyncdisk/GPZ/UW/514_hardware_and_software_lab/labs_peizhong_gao/lab2/voltage/src",
+                "E:/BaiduSyncdisk/GPZ/UW/514_hardware_and_software_lab/labs_peizhong_gao/lab2/voltage/.pio/libdeps/seeed_xiao_esp32c3/Bounce2/src",
                 "C:/Users/Gao Peizhong/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32c3/include/newlib/platform_include",
                 "C:/Users/Gao Peizhong/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32c3/include/freertos/include",
                 "C:/Users/Gao Peizhong/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32c3/include/freertos/include/esp_additions/freertos",
@@ -242,9 +242,9 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "E:/BaiduSyncdisk/GPZ/UW/514_hardware_and_software_lab/lab2/voltage/include",
-                    "E:/BaiduSyncdisk/GPZ/UW/514_hardware_and_software_lab/lab2/voltage/src",
-                    "E:/BaiduSyncdisk/GPZ/UW/514_hardware_and_software_lab/lab2/voltage/.pio/libdeps/seeed_xiao_esp32c3/Bounce2/src",
+                    "E:/BaiduSyncdisk/GPZ/UW/514_hardware_and_software_lab/labs_peizhong_gao/lab2/voltage/include",
+                    "E:/BaiduSyncdisk/GPZ/UW/514_hardware_and_software_lab/labs_peizhong_gao/lab2/voltage/src",
+                    "E:/BaiduSyncdisk/GPZ/UW/514_hardware_and_software_lab/labs_peizhong_gao/lab2/voltage/.pio/libdeps/seeed_xiao_esp32c3/Bounce2/src",
                     "C:/Users/Gao Peizhong/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32c3/include/newlib/platform_include",
                     "C:/Users/Gao Peizhong/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32c3/include/freertos/include",
                     "C:/Users/Gao Peizhong/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32c3/include/freertos/include/esp_additions/freertos",
