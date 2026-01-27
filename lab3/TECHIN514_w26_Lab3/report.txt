@@ -1,0 +1,13 @@
+警告: 已限制宽度校正。目前设计规则的宽度修正值必须在范围 [0.000001 mm; 0.199999 mm] 内。
+Plotted to 'E:\BaiduSyncdisk\GPZ\UW\514_hardware_and_software_lab\labs_peizhong_gao\lab3\TECHIN514_w26_Lab3\TECHIN514_w26_Lab3-F_Cu.gbr'.
+Plotted to 'E:\BaiduSyncdisk\GPZ\UW\514_hardware_and_software_lab\labs_peizhong_gao\lab3\TECHIN514_w26_Lab3\TECHIN514_w26_Lab3-B_Cu.gbr'.
+Plotted to 'E:\BaiduSyncdisk\GPZ\UW\514_hardware_and_software_lab\labs_peizhong_gao\lab3\TECHIN514_w26_Lab3\TECHIN514_w26_Lab3-F_Paste.gbr'.
+Plotted to 'E:\BaiduSyncdisk\GPZ\UW\514_hardware_and_software_lab\labs_peizhong_gao\lab3\TECHIN514_w26_Lab3\TECHIN514_w26_Lab3-B_Paste.gbr'.
+Plotted to 'E:\BaiduSyncdisk\GPZ\UW\514_hardware_and_software_lab\labs_peizhong_gao\lab3\TECHIN514_w26_Lab3\TECHIN514_w26_Lab3-F_Silkscreen.gbr'.
+Plotted to 'E:\BaiduSyncdisk\GPZ\UW\514_hardware_and_software_lab\labs_peizhong_gao\lab3\TECHIN514_w26_Lab3\TECHIN514_w26_Lab3-B_Silkscreen.gbr'.
+Plotted to 'E:\BaiduSyncdisk\GPZ\UW\514_hardware_and_software_lab\labs_peizhong_gao\lab3\TECHIN514_w26_Lab3\TECHIN514_w26_Lab3-F_Mask.gbr'.
+Plotted to 'E:\BaiduSyncdisk\GPZ\UW\514_hardware_and_software_lab\labs_peizhong_gao\lab3\TECHIN514_w26_Lab3\TECHIN514_w26_Lab3-B_Mask.gbr'.
+Plotted to 'E:\BaiduSyncdisk\GPZ\UW\514_hardware_and_software_lab\labs_peizhong_gao\lab3\TECHIN514_w26_Lab3\TECHIN514_w26_Lab3-Edge_Cuts.gbr'.
+Created Gerber job file 'E:\BaiduSyncdisk\GPZ\UW\514_hardware_and_software_lab\labs_peizhong_gao\lab3\TECHIN514_w26_Lab3\TECHIN514_w26_Lab3-job.gbrjob'.
+信息: Done.
+信息: Done.
